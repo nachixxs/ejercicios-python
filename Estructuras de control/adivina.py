@@ -14,4 +14,4 @@ while not adivinado:
         print("¡Correcto!")  # Informa que adivinó correctamente
         adivinado = True     # Cambia la variable para salir del bucle
     else:
-        print("Intenta otra vez")  # Informa que el
+        print("Intenta otra vez")  # Informa que el intento fue incorrecto

@@ -1,3 +1,5 @@
+# Crear una función que compare dos números e indique si son iguales, o cuál es mayor.
+
 def comparar(a, b):
     if a == b:
         return "Son iguales"

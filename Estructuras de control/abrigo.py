@@ -1,3 +1,5 @@
+# Crear una función que indique si hace frío, calor o está agradable según la temperatura ingresada.
+
 def abrigo(temp):
     if temp < 15:
         return print("Frio")

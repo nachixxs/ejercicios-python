@@ -1,3 +1,5 @@
+# Crear una función que determine si una persona puede votar según su edad.
+
 def puede_votar(edad):
     if edad >= 18:
         return print("Debe votar")

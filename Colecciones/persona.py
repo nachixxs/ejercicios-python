@@ -1,3 +1,6 @@
+# Problema: Crear una función que devuelva un diccionario con información de una persona,
+# permitiendo modificar los valores por defecto, como la edad, el nombre, etc.
+
 def persona(
     nombre: str = "Ignacio",
     apellido: str = "Cabrera",

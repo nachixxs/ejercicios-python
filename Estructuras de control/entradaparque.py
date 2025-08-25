@@ -1,3 +1,6 @@
+# Crear una función que determine el precio de entrada a un parque de diversiones
+# según la edad y si es estudiante o no.
+
 def entrada_parque(edad, estudiante):
     if edad < 12:
         return print("$5")

@@ -1,3 +1,5 @@
+# Cree una función que solicite un número al usuario y calcule la suma de todos los números desde 1 hasta ese número.
+
 def suma():
     num1 = int(input("Ingrese el número: "))
     suma = 0

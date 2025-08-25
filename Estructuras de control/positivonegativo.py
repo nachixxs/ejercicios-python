@@ -1,3 +1,5 @@
+# Crear una función que determine si un número es positivo, negativo o cero.
+
 def positivonegativo(numero):
     if numero > 0:
         return "positivo"
