@@ -51,8 +51,8 @@ ejercicios-python/
 
 | Nivel | Ejercicios | Estado |
 |-------|-----------|--------|
-| **01 - Básico** | ~20 | ✅ Completado |
-| **02 - Intermedio** | ~30 | ✅ Completado |
+| **01 - Básico** | ~24 | ✅ Completado |
+| **02 - Intermedio** | ~14 | ✅ Completado |
 | **03 - Avanzado** | 0/25 | 🔄 En progreso |
 | **04 - Profesional** | 0/15 | 📅 Planificado |
 | **05 - Algoritmos** | 0/10 | 📅 Planificado |
