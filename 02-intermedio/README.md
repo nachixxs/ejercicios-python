@@ -34,4 +34,4 @@ Estructuras de datos y funciones de Python.
 - Condicionales en comprehensions
 
 ## ✅ Estado
-Completado - ~30 ejercicios
+Completado - ~14 ejercicios

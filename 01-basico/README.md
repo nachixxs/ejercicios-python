@@ -28,4 +28,4 @@ Ejercicios básicos que cubren los conceptos fundamentales del lenguaje.
 - else en bucles
 
 ## ✅ Estado
-Completado - ~20 ejercicios
+Completado - ~25 ejercicios
