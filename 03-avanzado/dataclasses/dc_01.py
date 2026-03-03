@@ -1,3 +1,4 @@
+# DC-01 — Modelá un Producto con dataclass: nombre: str, precio: float, stock: int, categoria: str. Agregale un método aplicar_descuento(porcentaje: float) -> None que modifique el precio, y una propiedad en_stock -> bool que devuelva si stock > 0. Todo tipado.
 from dataclasses import dataclass, field
 from typing import List
 
